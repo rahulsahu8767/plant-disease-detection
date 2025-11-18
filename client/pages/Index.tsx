@@ -44,7 +44,7 @@ export default function Index() {
                 Upload Plant Image
               </Link>
               <button className="px-8 py-4 border-2 border-primary text-primary rounded-lg font-semibold hover:bg-primary/5 transition-colors">
-                Learn More
+                <a href="https://apsjournals.apsnet.org/page/pdis/about">Learn More</a> 
               </button>
             </div>
           </div>
@@ -165,7 +165,8 @@ export default function Index() {
               <span className="font-bold text-primary">LeafGuard</span>
             </div>
             <p className="text-sm text-foreground/60">
-              © 2024 LeafGuard. AI-powered plant disease detection.
+              © 2025 LeafGuard. AI-powered plant disease detection. <br />
+              By Rahul Sahu & Group
             </p>
           </div>
         </div>
